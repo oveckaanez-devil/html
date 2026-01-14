@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+}
+.wrap {
+    margin: 16px;
+}
+.example-1 {
+    width: 400px;
+    height: 400px;
+    background-color: cadetblue;
+    color: bisque;
+    display: grid;
+    place-items: center;
+}
